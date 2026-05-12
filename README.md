@@ -72,32 +72,43 @@
 
 ---
 
-## 🚀 Featured Project — DevFixer
+## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="50%">
       <h3>🛠️ DevFixer</h3>
       <p><em>A developer-focused platform for quickly diagnosing and fixing common coding issues.</em></p>
-      <ul>
-        <li>⚡ Rapid fix suggestions for common dev errors</li>
-        <li>🎯 Clean, minimal, developer-friendly UI</li>
-        <li>🔄 Practical workflow built for real-world use</li>
-        <li>📈 Built with performance & scalability in mind</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Servlets-007396?style=flat-square&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="120" alt="DevFixer" />
-      <br/>
-      <em>"Fix faster. Ship better."</em>
-    </td>
+
+  - ⚡ Rapid fix suggestions
+  - 🎯 Clean developer-friendly UI
+  - 📈 Performance-focused architecture
+
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  </p>
+
+  </td>
+
+  <td width="50%">
+    <h3>🔧 Mini-Git</h3>
+    <p><em>A simplified Git version control system built from scratch.</em></p>
+
+  - 📂 Repository initialization
+  - 📝 Blob object creation
+  - 🔐 SHA-1 hashing implementation
+  - 🌳 Git object storage mechanics
+  - ⚡ Understanding Git internals deeply
+
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/File_System-3949AB?style=flat-square" />
+    <img src="https://img.shields.io/badge/SHA--1-5C6BC0?style=flat-square" />
+  </p>
+
+  </td>
   </tr>
 </table>
 
