@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/🌐 Full Stack Explorer (MERN)-7C83FD?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/🔍 DSA & Problem Solver-5C6BC0?style=for-the-badge&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/☁️ Cloud & Azure Learner-5C6BC0?style=for-the-badge&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/☁️ Cloud & Azure Learner-5C6BC0?style=for-the-badge&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/🚀 GSSoC 2026 Contributor-3949AB?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/💡 Building DevFixer-3949AB?style=for-the-badge&logoColor=white" />
 </p>
