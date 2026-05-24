@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/rushil-patel-487054312" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://rushilportfolio20-blond.vercel.app/" target="_blank">
+  <a href="https://rpportfolio-three.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:rushilp274@gmail.com">
